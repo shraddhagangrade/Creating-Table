@@ -1,0 +1,96 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <tittle>Component Library</tittle>
+    </head>
+    <body>
+        <h1>Welcome to Shraddha's Component library</h1>
+        <div class="Something">Shraddha Gangrade</div>
+        <p> I am attending a neog.camp and I want to make a library which would make all my projects look good and consistent. </p>
+        <hr>
+        <h2>@typography</h1>
+        <h1>This is the biggest heading.</h1>
+        <h2>This is the second biggest heading.</h2>
+        <p>Let me show you the normal text.This is free flowing and will wrap at the end like a paragraph. </p>
+        <small>This is the relatively small text.</small>
+        <hr>
+        <h2>@Containers</h2>
+        <h3>Fluid Conatiner</h3>
+        <div>This is the fluid container and it will go till the end of the page.</div>
+        <h3>Centre Conatiner</h3>
+        <div>This is the centre container and it will go till the specified width.</div>
+        <hr>
+        <h2>@Links</h2>
+        <a href="https://www.youtube.com/watch?v=xtUaxscA6ZA">Song</a>
+        <a href="/">Primary Link</a>
+        <a href="/">Secondary Link</a>
+        <hr>
+        <h2>@list</h2>
+        <h3>Unordred List</h3>
+        <ul>
+             <li>Item one</li>
+             <li>Item Two </li>
+             <li>Item Three</li>
+        </ul>
+        <ul>
+            <li>Inline Item One</li>
+            <li>Inline Item Two</li>
+            <li>Inline Item Three</li>
+        </ul>
+        <h3>reversed Order List</h3>
+        <ol>
+            <li>milk</li>
+            <li>eggs</li>
+            <li>break</li>
+        </ol>
+        <hr>
+        <h2>@nav</h2>
+        <h3>Navigation is used on the top of the page and used to get different pages.</h3>
+        <nav>
+            <div>iAmBrand</div>
+               <ul>
+                   <li>
+                       <a href="/">home</a>
+                   </li>
+                   <li> 
+                       <a href="/">Product</a>
+                   </li>
+                   <li>
+                       <a href="/">about</a>
+                   </li>
+               </ul>
+        </nav>
+        <div style="height: 30 vh;"> </div>
+       
+        <hr>
+        <h2>Header</h2>
+        <header>
+            <img src="https://i.etsystatic.com/22433361/c/999/794/51/132/il/c5a740/2279333813/il_340x270.2279333813_h9av.jpg"/>
+           <h1>heading inside header</h1>
+        </header>
+<hr>
+<h2>@Section</h2>
+<section>
+<h3>White Section</h3>
+<p>This will go end to end with little margin at both sides</p>
+</section>
+
+<section>
+<h3>Centre Section</h3>
+<p>This will have white background.</p>
+</section>
+<footer>
+<div> Some small heading inside footer</div>
+<ul>
+<li>socialone</li>
+<li>socialTwo</li>
+<li>socialThree</li>
+</ul>
+</footer>
+<div style="height : 30vh;">
+
+    </body>
+</html>
